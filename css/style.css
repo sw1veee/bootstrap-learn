@@ -115,7 +115,10 @@ header, footer{
 }
 
 /* Отзывы */
-
+.itd-rev-circle{
+    border: 3px solid var(--color1);
+    border-radius: 50%;
+}
 
 /* Цвет */
 
