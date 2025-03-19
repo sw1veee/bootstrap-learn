@@ -136,6 +136,15 @@ footer .btn{
     margin-right: 5px;
 }
 
+footer i{
+    font-size: 18px;
+}
+
+i.icon-paper-plane{
+    padding-top: 2px;
+    padding-right: 2px;
+}
+
 i.icon-vkontakte{
     padding-right: 2px;
 }
