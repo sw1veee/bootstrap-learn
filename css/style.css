@@ -63,7 +63,7 @@ header, footer{
 }
 /*О курсе*/
 
-.about, .shedule, .author{
+.about, .shedule, .author, .buy{
     background-color: #eee;
 }
 .about i{
