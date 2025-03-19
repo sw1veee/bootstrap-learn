@@ -2,7 +2,7 @@
     --color1: #05b1b1;
     --color2: #52339a;
 }
-header, footer, section{
+section{
     padding: 100px 0;
 }
 header{
@@ -118,6 +118,26 @@ header, footer{
 .itd-rev-circle{
     border: 3px solid var(--color1);
     border-radius: 50%;
+}
+
+/* Подвал */
+footer{
+    padding: 30px 0;
+    background-size: contain;
+}
+
+footer .btn{
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin-right: 5px;
+}
+
+i.icon-vkontakte{
+    padding-right: 2px;
 }
 
 /* Цвет */
